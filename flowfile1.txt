@@ -1,0 +1,3 @@
+selectSingleDie(0,0)
+readUid()
+
